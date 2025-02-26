@@ -1,1 +1,3 @@
-Will add resume shortly
+- **Name**: Cooper Oliff
+- **Major** CS + Econ _combined_ major
+- **Expected Graduation**: 2028
